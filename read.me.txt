@@ -1,0 +1,2 @@
+Large Archives é um aplicativo com a função de realizar uploads e compartilhamento de arquivos sem restrições de tamanho.
+Aba "arquivos" para upar o arquivo apenas uma vez, e após isso, poder compartilhar para várias pessoas no chat, sem a necessidade de realizar upload toda vez que for enviar.
